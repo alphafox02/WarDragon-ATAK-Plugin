@@ -14,7 +14,7 @@ WarDragon is an ATAK plugin for monitoring WarDragon Pro kits via DragonSync:
 ## Install
 1) Download the APK from GitHub Releases:  
    - Release page: https://github.com/alphafox02/WarDragon-ATAK-Plugin/releases  
-   - File: `ATAK-Plugin-WarDragon-<version>-civ-release.apk`
+   - Current: `ATAK-Plugin-WarDragon-0.1--5.6.0-civ-release.apk`
 2) Verify checksum (recommended):  
    - SHA256: `f3d4075ba5fbd9fafb58d480629bc2a178947dd212e0c25d8aa7511c8acdfcd3`
 3) Sideload onto your ATAK device and enable the plugin.
