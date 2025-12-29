@@ -39,4 +39,4 @@ WarDragon is an ATAK plugin for monitoring WarDragon Pro kits via DragonSync:
 - Copyright © 2025 CEMAXECUTER LLC. All rights reserved.
 
 ## Support
-- Issues/feedback: open a GitHub issue or contact `<your contact>`.
+- Issues/feedback: open a GitHub issue.
