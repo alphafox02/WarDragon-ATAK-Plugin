@@ -30,6 +30,10 @@ WarDragon is an ATAK plugin for monitoring WarDragon Pro kits via DragonSync:
 - **Detections:** Filter All/Drones/Aircraft. Tap a row to expand details (map center, pilot/home, replay). Set per-track status via the overflow menu (Authorized/Unknown/Unauthorized). RID make/model/source shown when provided by DragonSync. Sort pill toggles Latest vs Stable order.
 - **Config:** Read-only kit config from the API. Local settings: track refresh interval; track TTL (minutes) for API detections; optional toggle to apply TTL to CoT detections list. CoT/debug toggles live here.
 
+## Screenshots
+![Plugin on phone](plugin.jpeg)
+![Plugin on tablet](tablet.jpeg)
+
 ## Notes
 - Designed for WarDragon Pro. Requires DragonSync on the kit.  
   DragonSync project: https://github.com/alphafox02/DragonSync
